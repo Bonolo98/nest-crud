@@ -19,7 +19,7 @@ import { AppService } from './app.service';
         synchronize: true,
         logging: true,
     }),
-    UserModule,
+    UserModule, 
   ],
   controllers: [AppController],
   providers: [AppService],
